@@ -20,7 +20,8 @@ Power BI for interactive visual analytics
 Cryptocurrency data source (e.g., CoinGecko, Kaggle, or other historical crypto datasets)
 
 
-📈 Key Features
+📈 Key Features:- 
+
 🔹 Google Colab (.ipynb)
 Import and clean crypto time series data
 
